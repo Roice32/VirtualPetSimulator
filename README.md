@@ -28,10 +28,10 @@
 
 ## Screenshots
 
-- Cat relaxing
+- Cat relaxing\
 ![Pet on main scene](Screenshots/Idle.png)
 ---
-- Cat taking a bath
+- Cat taking a bath\
 ![Pet taking a bath](Screenshots/Wash.png)
 ---
 
